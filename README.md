@@ -1,1 +1,1 @@
-# Resume
+Repository ini berisi resume saya sebagai seorang web developer dengan pengalaman selama 1 tahun/Fresh Graduate. Dalam resume ini, saya menyertakan keterampilan dalam pengembangan website, pengalaman kerja di beberapa proyek, dan portofolio yang telah saya buat. Silakan lihat dan unduh resume saya jika Anda tertarik untuk bekerja sama dengan saya dalam pengembangan website atau aplikasi web.
